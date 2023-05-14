@@ -1,6 +1,8 @@
 # Python-Snek-Game
 Made for college. Everything in here is held together by duct tape
 
+
+
 ## TO DO LIST:
 <sub>Finished:</sup>
 <p>#1. Add audio and game icon
