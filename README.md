@@ -9,7 +9,7 @@ And uh....unique?
 
 This project wouldn't have been possible without the help of [Codebro](https://www.youtube.com/watch?v=bfRwxS5d0SI&t=1s)! (Great coding totorials, go **sub**)
 
-# How to setup the game
+# How to setup the game :hammer_and_wrench:
 Requirements : 
 1) A code editor (Anything works I think) ex.Visual Studio, Visual Studio Code, VSCodium...
 2) [Python](https://www.python.org/) - You CANNOT start editing the code without it
