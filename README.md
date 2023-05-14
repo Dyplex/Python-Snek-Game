@@ -1,4 +1,4 @@
-# Python Snek Game
+# Python Snek Game :snake:
 Made for a college project! Everything in here is held together by duct tape and tears!  
 Sorry in advance for the messy code ! - MaskMajor
 
