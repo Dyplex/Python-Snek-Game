@@ -22,7 +22,8 @@ Requirements :
   pip install opencv-python
 ```
 
-# TO DO LIST 
+# TO DO LIST
+<sub>That I will probably never add</sub>
 Finished and unfinished things I wanted the game to have!
 
 > Currently finished:
