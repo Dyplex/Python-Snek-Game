@@ -9,6 +9,6 @@ Made for college. Everything in here is held together by duct tape
 <p>"""
 <p>2. Add main menu (Settings, custom keybinds and volume slider)
 <p>6. Make it so that the game moves faster if you have more puncte
-<p>7. *(Maybe)* Clean the code
+<p>7. _(Maybe)_ Clean the code
 <p>8. *(Maybe)* Add a neato shader to the gaem
 <p>"""
