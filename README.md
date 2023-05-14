@@ -3,7 +3,7 @@ Made for a college project! Everything in here is held together by duct tape and
 Sorry in advance for the messy code ! - MaskMajor
 
 # What is "Python Snek Game" ?
-A *simple* python game made in a week *(I think)*
+A *simple* python game made in a week *(I think)* with a few cutsom features to make the gameplay more interesting !
 
 # TO DO LIST 
 Finished and unfinished things I wanted the game to have!
