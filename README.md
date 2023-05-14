@@ -2,6 +2,9 @@
 Made for a college project! Everything in here is held together by duct tape and tears!  
 Sorry in advance for the messy code ! - MaskMajor
 
+# What is "Python Snek Game" ?
+A *simple* python game made in a week *(I think)*
+
 # TO DO LIST 
 Finished and unfinished things I wanted the game to have!
 
