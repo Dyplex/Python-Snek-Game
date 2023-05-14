@@ -4,7 +4,7 @@ Made for college. Everything in here is held together by duct tape
 
 
 # TO DO LIST 
-*finished and unfinished*
+Finished and unfinished things I wanted the game to have!
 
 <sub>Finished:</sup>
 <p>#1. Add audio and game icon
