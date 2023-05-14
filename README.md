@@ -21,6 +21,7 @@ Requirements :
   pip install pygame
   pip install opencv-python
 ```
+4) Common sense.
 
 # TO DO LIST :chair:
 Finished and unfinished things I wanted the game to have!
