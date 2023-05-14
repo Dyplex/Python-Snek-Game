@@ -13,7 +13,7 @@ And last but not least THANK YOU to [w3schools.com](https://www.w3schools.com/py
 
 # How to setup the game :hammer_and_wrench:
 Requirements : 
-1) A code editor (Anything works I think) ex.Visual Studio, Visual Studio Code, VSCodium...
+1) A code editor (Anything works I think) ex. [Visual Studio](https://visualstudio.microsoft.com/), [Visual Studio Code](https://visualstudio.microsoft.com/), [VSCodium](https://vscodium.com/)...
 2) [Python](https://www.python.org/) - You CANNOT start editing the code without it
 3) And all of this (For windows) :
 ```
