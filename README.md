@@ -17,7 +17,7 @@ And uh....unique?
 Requirements : 
 1) A code editor (Anything works I think) eg. [Visual Studio](https://visualstudio.microsoft.com/), [Visual Studio Code](https://visualstudio.microsoft.com/), [VSCodium](https://vscodium.com/) ...
 2) [Python](https://www.python.org/) - You CANNOT start editing the code without it
-3) And all of this (For windows) :
+3) And all of this (For windows, put them in your Command Prompt) :
 ```
   pip install requests
   pip install itertools
