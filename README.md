@@ -7,7 +7,7 @@ Sorry in advance for the messy code ! - MaskMajor
 The game features a custom ranking system *(DMC inspired)* and le funny snake reactions to make everything more **ENTERTAINING** !  
 And uh....unique? 
 
-# Credits :computer:
+# Credits !!: :computer:
 + This project wouldn't have been possible without the help of [Codebro](https://www.youtube.com/watch?v=bfRwxS5d0SI&t=1s)! (Great coding totorials, go **sub**)  
 + Also HUGE thanks to that one guy in the [Python Discord server](https://discord.gg/python) for helping me figure out how to make the gifs work  
 + And last but not least THANK YOU to [w3schools.com](https://www.w3schools.com/python/default.asp) for teaching me python (very cool)
