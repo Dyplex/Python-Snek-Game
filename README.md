@@ -11,7 +11,7 @@ This project wouldn't have been possible without the help of [Codebro](https://w
 Requirements : 
 1) A code editor (Anything works I think)
 2) [Python](https://www.python.org/)
-3) All of this :
+3) All of this (For windows) :
 ```
   pip install requests
   pip install itertools
