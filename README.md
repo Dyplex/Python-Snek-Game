@@ -1,7 +1,7 @@
 # Python-Snek-Game
 Made for college. Everything in here is held together by duct tape
 
-#TO DO LIST:
+<p>#TO DO LIST:
 #1. Add audio and game icon
 #5. Add custom textures to the snake and board (maybe change textures when reaching a specific puncte)
 #4. Add DMC puncte system
