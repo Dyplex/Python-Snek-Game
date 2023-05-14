@@ -4,7 +4,7 @@ Sorry in advance for the messy code ! - MaskMajor
 
 # What is "Python Snek Game" ?
 A *simple* python game made in a week *(I think)* with a few cutsom features to make the gameplay more interesting !  
-The game features a custom ranking system *(DMC inspired)* and le funny snake reactions to make everything more **ENTERTAINING** !  
+The game features a custom ranking system *(DMC inspired)* and le funny snake reactions to make everything more **ENTERTAINING** ! and uh, unique?  
 This project wouldn't have been possible without the help of [Codebro](https://www.youtube.com/watch?v=bfRwxS5d0SI&t=1s)! (Great coding totorials, go **sub**)
 
 # How to setup the game
