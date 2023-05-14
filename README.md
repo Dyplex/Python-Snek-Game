@@ -10,7 +10,7 @@ This project wouldn't have been possible without the help of [Codebro](https://w
 # How to setup the game
 Requirements : 
 1) A code editor (Anything works I think)
-2) [Python](https://www.python.org/(
+2) [Python](https://www.python.org/)
 3) All of this :
 ```
   pip install requests
