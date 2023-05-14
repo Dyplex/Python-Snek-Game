@@ -7,6 +7,8 @@ A *simple* python game made in a week *(I think)* with a few cutsom features to 
 The game features a custom ranking system *(DMC inspired)* and le funny snake reactions to make everything more **ENTERTAINING** !  
 This project wouldn't have been possible without the help of [Codebro](https://www.youtube.com/watch?v=bfRwxS5d0SI&t=1s)! (Great coding totorials, go **sub**)
 
+# How 2 setup the game
+
 # TO DO LIST 
 Finished and unfinished things I wanted the game to have!
 
