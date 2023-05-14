@@ -9,9 +9,9 @@ This project wouldn't have been possible without the help of [Codebro](https://w
 
 # How to setup the game
 Requirements : 
-1) A code editor (Anything works I think)
-2) [Python](https://www.python.org/)
-3) All of this (For windows) :
+1) A code editor (Anything works I think) ex.Visual Studio, Visual Studio Code, VSCodium...
+2) [Python](https://www.python.org/) - You CANNOT start editing the code without it
+3) And all of this (For windows) :
 ```
   pip install requests
   pip install itertools
