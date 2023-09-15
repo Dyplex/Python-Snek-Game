@@ -1,0 +1,26 @@
+HI !
+
+JUST RUN THE typheus.exe !!!
+
+THE FOLDER 'Code' contains all the code and files I experimented with :v
+
+"snekbkup.py" is the latest version of the snake game !
+
+
+
+    Y
+  .-^-.
+ /     \      .- ~ ~ -.
+()     ()    /   _ _   `.                     _ _ _
+ \_   _/    /  /     \   \                . ~  _ _  ~ .
+   | |     /  /       \   \             .' .~       ~-. `.
+   | |    /  /         )   )           /  /             `.`.
+   \ \_ _/  /         /   /           /  /                `'
+    \_ _ _.'         /   /           (  (
+                    /   /             \  \
+                   /   /               \  \
+                  /   /                 )  )
+                 (   (                 /  /
+                  `.  `.             .'  /
+                    `.   ~ - - - - ~   .'
+                       ~ . _ _ _ _ . ~
