@@ -1,5 +1,9 @@
+<p align="center" style="font-size: larger;">
+THE PROJECT IS CURRENTLY SHELVED! FEEL FREE TO FINISH IT IF YOU WANT!
+</p>
+
+
 # Python Snek Game :snake:
-**THE PROJECT IS CURRENTLY SHELVED! FEEL FREE TO FINISH IT IF YOU WANT !**
 Made for a college project! Everything in here is held together by duct tape and tears!  
 Sorry in advance for the messy code ! - MaskMajor
 
