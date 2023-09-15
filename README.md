@@ -23,7 +23,7 @@ And uh....unique?
 + And last but not least a **HUGE THANK YOU** to everyone that supported me during the making of this project :D
 
 # How to setup the game :hammer_and_wrench:
-_(If you want to modify the source code)_
+_(If you want to modify the source code)_\
 Requirements : 
 1) A code editor (Anything works I think) eg. [Visual Studio](https://visualstudio.microsoft.com/), [Visual Studio Code](https://visualstudio.microsoft.com/), [VSCodium](https://vscodium.com/) ...
 2) [Python](https://www.python.org/) - You CANNOT start editing the code without it
