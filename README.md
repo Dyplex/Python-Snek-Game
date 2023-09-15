@@ -16,6 +16,7 @@ And uh....unique?
 + This project wouldn't have been possible without the help of [Codebro](https://www.youtube.com/watch?v=bfRwxS5d0SI&t=1s)! (Great coding totorials, go **sub**)  
 + Also HUGE thanks to that one guy in the [Python Discord server](https://discord.gg/python) for helping me figure out how to make the gifs work  
 + And thank you to [w3schools.com](https://www.w3schools.com/python/default.asp) for teaching me python (very cool)
++ I FORGOT THAT I USED AMONG US SOUND EFFECTS AND THE HIDE AND SEEK THEME FOR IT HOLLY SHIT FULL CREDIT TO INNERSLOTH PLEASE PLEASE DO CHECK OUT THE FULL OG SONG [RIGHT HERE](https://www.newgrounds.com/audio/listen/1179032)
 + And last but not least a **HUGE THANK YOU** to everyone that supported me during the making of this project :D
 
 # How to setup the game :hammer_and_wrench:
