@@ -30,7 +30,7 @@ Requirements :
   pip install pygame
   pip install opencv-python
 ```
-
+4) Feel free to edit the python file in **Code/snekbkup.py** ! (that's the main file) using your favorite code editor! The files in **Code/OTHER** are random ass files that you can delete or whatever, they have nothing to do with the main file but i left them there for archival purposes !
 # TO DO LIST :chair:
 Finished and unfinished things I wanted the game to have!
 
