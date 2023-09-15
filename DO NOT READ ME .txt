@@ -24,3 +24,41 @@ THE FOLDER 'Code' contains all the code and files I experimented with :v
                   `.  `.             .'  /
                     `.   ~ - - - - ~   .'
                        ~ . _ _ _ _ . ~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHANGELOGS !!!
+--------------------------
+24.04.2023
+
+-Fixed sound not working on other computers (FINALLY)
