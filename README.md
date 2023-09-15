@@ -44,6 +44,7 @@ Finished and unfinished things I wanted the game to have!
 > WIP / Unfinished
 <p>Make it so that the cutscene runs in the same window as the game
 <p>Implement restart function (press R to restart when you die)
+<p>Fix crashing when closing cutscene
 <p>2. Add main menu (Settings, custom keybinds and volume slider)
 <p>6. Make it so that the game moves faster if you have more puncte
 <p>7. (Maybe) Clean the code
