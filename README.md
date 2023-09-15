@@ -5,9 +5,10 @@ THE PROJECT IS CURRENTLY SHELVED! FEEL FREE TO FINISH IT IF YOU WANT!
 
 # Python Snek Game :snake:
 Made for a college project! Everything in here is held together by duct tape and tears!  
-Sorry in advance for the messy code ! - MaskMajor
+Sorry in advance for the messy code ! - MaskMajor\
+
 Also if it gives you a virus pop-up, ignore it, it's not a virus. Python programs just dont do well when they are turned into .exe files or something like that. Come to think of it most .exe files make
-antiviruses go wild, meh.
+antiviruses go wild, meh ;p
 
 # What is "Python Snek Game" ? :thinking:
   A *simple* python game made in a week *(I think)* with a few cutsom features to make the gameplay more interesting !  
