@@ -5,7 +5,7 @@ THE PROJECT IS CURRENTLY SHELVED! FEEL FREE TO FINISH IT IF YOU WANT!
 
 # Python Snek Game :snake:
 Made for a college project! Everything in here is held together by duct tape and tears!  
-Sorry in advance for the messy code ! - MaskMajor\
+Sorry in advance for the messy code ! - MaskMajor
 
 Also if it gives you a virus pop-up, ignore it, it's not a virus. Python programs just dont do well when they are turned into .exe files or something like that. Come to think of it most .exe files make
 antiviruses go wild, meh ;p
@@ -23,7 +23,8 @@ And uh....unique?
 + And last but not least a **HUGE THANK YOU** to everyone that supported me during the making of this project :D
 
 # How to setup the game :hammer_and_wrench:
-_(If you want to modify the source code)_\
+_(If you want to modify the source code)_
+
 Requirements : 
 1) A code editor (Anything works I think) eg. [Visual Studio](https://visualstudio.microsoft.com/), [Visual Studio Code](https://visualstudio.microsoft.com/), [VSCodium](https://vscodium.com/) ...
 2) [Python](https://www.python.org/) - You CANNOT start editing the code without it
