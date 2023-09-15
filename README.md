@@ -1,4 +1,5 @@
 # Python Snek Game :snake:
+**THE PROJECT IS CURRENTLY SHELVED! FEEL FREE TO FINISH IT IF YOU WANT !**
 Made for a college project! Everything in here is held together by duct tape and tears!  
 Sorry in advance for the messy code ! - MaskMajor
 
@@ -36,6 +37,8 @@ Finished and unfinished things I wanted the game to have!
 <p>3. Modify interface
   
 > WIP / Unfinished
+<p>Make it so that the cutscene runs in the same window as the game
+<p>Implement restart function (press R to restart when you die)
 <p>2. Add main menu (Settings, custom keybinds and volume slider)
 <p>6. Make it so that the game moves faster if you have more puncte
 <p>7. (Maybe) Clean the code
